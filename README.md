@@ -8,7 +8,7 @@ Repositori ini berisi kode sumber untuk proyek **Kacamata Pintar SIGMA 2.0**, ya
 
 ### 📥 Tautan Dataset (12 GB)
 Karena ukuran dataset sangat besar, dataset gambar tidak disimpan di Github. Silakan unduh dataset melalui link Google Drive berikut:
-*(Tempelkan Link Google Drive Bersama Anda di sini)*
+https://drive.google.com/file/d/1zeTf-a2OL_uhKPHKjX7K1yWmNCyPNLct/view?usp=drive_link
 
 ### 🚀 Cara Menjalankan Program (Instalasi)
 Untuk menjalankan sistem tanpa error, buat *virtual environment* lokal Anda sendiri dengan 3 langkah mudah ini:
